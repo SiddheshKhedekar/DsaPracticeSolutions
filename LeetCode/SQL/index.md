@@ -1,1 +1,1 @@
-* [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/LeetCode/SQL/FixNamesinaTable/script.sql)
+* [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/FixNamesinaTable/script.sql)
