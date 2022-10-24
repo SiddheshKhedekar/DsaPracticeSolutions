@@ -1,1 +1,2 @@
 * [Unique Paths](https://leetcode.com/problems/unique-paths/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/UniquePaths/script.py)
+* [Majority Element](https://leetcode.com/problems/majority-element/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MajorityElement/script.py)
