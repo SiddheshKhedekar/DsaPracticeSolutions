@@ -1,3 +1,4 @@
 * [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/FixNamesinaTable/script.sql)
 * [Swap Salary](https://leetcode.com/problems/swap-salary/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/SwapSalary/script.sql)
 * [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/SalesAnalysisIII/script.sql)
+* [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/DeleteDuplicateEmails/script.sql)
