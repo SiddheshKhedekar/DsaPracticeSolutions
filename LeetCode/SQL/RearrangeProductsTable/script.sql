@@ -1,0 +1,33 @@
+-- Rearrange Products Table -> MySql
+
+/*
+Explanation: Need to convert column into a row which is possible through the use of union for the 
+valid values of each column along with its column header as a newly created column.
+*/
+
+select 
+  product_id, 
+  'store1' as store, 
+  store1 as price 
+from 
+  products 
+where 
+  store1 is not null 
+union 
+select 
+  product_id, 
+  'store2' as store, 
+  store2 as price 
+from 
+  products 
+where 
+  store2 is not null 
+union 
+select 
+  product_id, 
+  'store3' as store, 
+  store3 as price 
+from 
+  products 
+where 
+  store3 is not null;
