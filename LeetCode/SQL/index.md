@@ -6,3 +6,4 @@
 * [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/GroupSoldProductsByTheDate/script.sql)
 * [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/RearrangeProductsTable/script.sql)
 * [Tree Node](https://leetcode.com/problems/tree-node/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/TreeNode/script.sql)
+* [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/SecondHighestSalary/script.sql)
