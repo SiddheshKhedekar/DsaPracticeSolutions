@@ -9,3 +9,4 @@
 * [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/SecondHighestSalary/script.sql)
 * [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/CapitalGainLoss/script.sql)
 * [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/MarketAnalysisI/script.sql)
+* [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/UserActivityforthePast30DaysI/script.sql)
