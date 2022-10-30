@@ -8,3 +8,4 @@
 * [Tree Node](https://leetcode.com/problems/tree-node/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/TreeNode/script.sql)
 * [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/SecondHighestSalary/script.sql)
 * [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/CapitalGainLoss/script.sql)
+* [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/MarketAnalysisI/script.sql)
