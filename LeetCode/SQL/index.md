@@ -11,3 +11,4 @@
 * [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/MarketAnalysisI/script.sql)
 * [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/UserActivityforthePast30DaysI/script.sql)
 * [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/RecyclableandLowFatProducts/script.sql)
+* [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/FindTotalTimeSpentbyEachEmployee/script.sql)
