@@ -13,3 +13,4 @@
 * [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/RecyclableandLowFatProducts/script.sql)
 * [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/FindTotalTimeSpentbyEachEmployee/script.sql)
 * [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/DailyLeadsandPartners/script.sql)
+* [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/BankAccountSummaryII/script.sql)
