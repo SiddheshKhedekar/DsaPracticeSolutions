@@ -15,3 +15,4 @@
 * [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/DailyLeadsandPartners/script.sql)
 * [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/BankAccountSummaryII/script.sql)
 * [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/CustomerWhoVisitedbutDidNotMakeAnyTransactions/script.sql)
+* [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/TheLatestLoginin2020/script.sql)
