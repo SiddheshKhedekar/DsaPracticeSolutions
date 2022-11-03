@@ -17,3 +17,4 @@
 * [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/CustomerWhoVisitedbutDidNotMakeAnyTransactions/script.sql)
 * [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/TheLatestLoginin2020/script.sql)
 * [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/EmployeesWithMissingInformation/script.sql)
+* [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/GamePlayAnalysisI/script.sql)
