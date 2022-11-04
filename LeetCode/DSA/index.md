@@ -1,3 +1,4 @@
 * [Unique Paths](https://leetcode.com/problems/unique-paths/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/UniquePaths/script.py)
 * [Majority Element](https://leetcode.com/problems/majority-element/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MajorityElement/script.py)
 * [Rotate Array](https://leetcode.com/problems/rotate-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RotateArray/script.py)
+* [Happy Number](https://leetcode.com/problems/happy-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/HappyNumber/script.py)
