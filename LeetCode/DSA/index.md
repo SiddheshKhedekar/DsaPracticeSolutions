@@ -2,3 +2,4 @@
 * [Majority Element](https://leetcode.com/problems/majority-element/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MajorityElement/script.py)
 * [Rotate Array](https://leetcode.com/problems/rotate-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RotateArray/script.py)
 * [Happy Number](https://leetcode.com/problems/happy-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/HappyNumber/script.py)
+* [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Numberof1Bits/script.py)
