@@ -21,3 +21,4 @@
 * [Article Views I](https://leetcode.com/problems/article-views-i/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/ArticleViewsI/script.sql)
 * [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/FindCustomerReferee/script.sql)
 * [Big Countries](https://leetcode.com/problems/big-countries/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/BigCountries/script.sql)
+* [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/CombineTwoTables/script.sql)
