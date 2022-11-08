@@ -20,3 +20,4 @@
 * [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/GamePlayAnalysisI/script.sql)
 * [Article Views I](https://leetcode.com/problems/article-views-i/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/ArticleViewsI/script.sql)
 * [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/FindCustomerReferee/script.sql)
+* [Big Countries](https://leetcode.com/problems/big-countries/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/BigCountries/script.sql)
