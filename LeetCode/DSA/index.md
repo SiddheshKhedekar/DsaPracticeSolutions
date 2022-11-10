@@ -9,3 +9,4 @@
 * [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReverseWordsinaString/script.py)
 * [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/EggDropWith2EggsandNFloors/script.py)
 * [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ClimbingStairs/script.py)
+* [Power of Two](https://leetcode.com/problems/power-of-two/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PowerofTwo/script.py)
