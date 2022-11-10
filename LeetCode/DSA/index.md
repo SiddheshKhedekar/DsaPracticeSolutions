@@ -11,3 +11,4 @@
 * [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ClimbingStairs/script.py)
 * [Power of Two](https://leetcode.com/problems/power-of-two/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PowerofTwo/script.py)
 * [Power of Three](https://leetcode.com/problems/power-of-three/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PowerofThree/script.py)
+* [Power of Four](https://leetcode.com/problems/power-of-four/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PowerofFour/script.py)
