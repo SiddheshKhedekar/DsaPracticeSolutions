@@ -12,3 +12,4 @@
 * [Power of Two](https://leetcode.com/problems/power-of-two/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PowerofTwo/script.py)
 * [Power of Three](https://leetcode.com/problems/power-of-three/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PowerofThree/script.py)
 * [Power of Four](https://leetcode.com/problems/power-of-four/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PowerofFour/script.py)
+* [Single Number](https://leetcode.com/problems/single-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SingleNumber/script.py)
