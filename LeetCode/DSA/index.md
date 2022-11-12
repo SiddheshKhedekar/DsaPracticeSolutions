@@ -17,3 +17,4 @@
 * [Orderly Queue](https://leetcode.com/problems/orderly-queue/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/OrderlyQueue/script.py)
 * [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RemoveAllAdjacentDuplicatesInString/script.py)
 * [Make The String Great](https://leetcode.com/problems/make-the-string-great/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MakeTheStringGreat/script.py)
+* [Online Stock Span](https://leetcode.com/problems/online-stock-span/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/OnlineStockSpan/script.py)
