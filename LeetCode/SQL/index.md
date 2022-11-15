@@ -25,3 +25,4 @@
 * [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/ActorsandDirectorsWhoCooperatedAtLeastThreeTimes/script.sql)
 * [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/CustomerPlacingtheLargestNumberofOrders/script.sql)
 * [Sales Person](https://leetcode.com/problems/sales-person/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/SalesPerson/script.sql)
+* [Find Followers Count](https://leetcode.com/problems/find-followers-count/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/FindFollowersCount/script.sql)
