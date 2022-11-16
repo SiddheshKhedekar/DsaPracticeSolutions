@@ -27,3 +27,4 @@
 * [Sales Person](https://leetcode.com/problems/sales-person/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/SalesPerson/script.sql)
 * [Find Followers Count](https://leetcode.com/problems/find-followers-count/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/FindFollowersCount/script.sql)
 * [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/EmployeesEarningMoreThanTheirManagers/script.sql)
+* [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/CustomersWhoNeverOrder/script.sql)
