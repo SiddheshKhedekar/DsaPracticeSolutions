@@ -21,3 +21,4 @@
 * [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReverseVowelsofaString/script.py)
 * [Group Anagrams](https://leetcode.com/problems/group-anagrams/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/GroupAnagrams/script.py)
 * [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LetterCasePermutation/script.py)
+* [House Robber](https://leetcode.com/problems/house-robber/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/HouseRobber/script.py)
