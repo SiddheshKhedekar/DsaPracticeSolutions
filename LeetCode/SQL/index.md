@@ -30,3 +30,4 @@
 * [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/CustomersWhoNeverOrder/script.sql)
 * [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/CalculateSpecialBonus/script.sql)
 * [Rising Temperature](https://leetcode.com/problems/rising-temperature/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/RisingTemperature/script.sql)
+* [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/SQL/PatientsWithaCondition/script.sql)
