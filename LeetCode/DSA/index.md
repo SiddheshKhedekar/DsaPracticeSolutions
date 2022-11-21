@@ -25,3 +25,4 @@
 * [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestCommonPrefix/script.py)
 * [Same Tree](https://leetcode.com/problems/same-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SameTree/script.py)
 * [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ContainsDuplicateII/script.py)
+* [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/IntegertoRoman/script.py)
