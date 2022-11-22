@@ -27,3 +27,4 @@
 * [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ContainsDuplicateII/script.py)
 * [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/IntegertoRoman/script.py)
 * [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TopKFrequentWords/script.py)
+* [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestPalindrome/script.py)
