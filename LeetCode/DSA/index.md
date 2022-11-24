@@ -30,3 +30,4 @@
 * [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestPalindrome/script.py)
 * [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TheKWeakestRowsinaMatrix/script.py)
 * [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KthMissingPositiveNumber/script.py)
+* [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FibonacciNumber/script.py)
