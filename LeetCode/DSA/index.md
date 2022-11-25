@@ -32,3 +32,4 @@
 * [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KthMissingPositiveNumber/script.py)
 * [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FibonacciNumber/script.py)
 * [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PascalsTriangleII/script.py)
+* [Reverse Bits](https://leetcode.com/problems/reverse-bits/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReverseBits/script.py)
