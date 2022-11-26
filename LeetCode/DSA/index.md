@@ -34,3 +34,4 @@
 * [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PascalsTriangleII/script.py)
 * [Reverse Bits](https://leetcode.com/problems/reverse-bits/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReverseBits/script.py)
 * [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinCostClimbingStairs/script.py)
+* [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheTownJudge/script.py)
