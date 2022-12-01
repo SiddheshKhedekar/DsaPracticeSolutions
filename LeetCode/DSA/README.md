@@ -42,3 +42,4 @@
 * [Add Strings](https://leetcode.com/problems/add-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddStrings/script.py)
 * [Word Pattern](https://leetcode.com/problems/word-pattern/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WordPattern/script.py)
 * [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindPlayersWithZeroorOneLosses/script.py)
+* [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/UniqueNumberofOccurrences/script.py)
