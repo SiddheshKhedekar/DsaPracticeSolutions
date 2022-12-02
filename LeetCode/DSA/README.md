@@ -45,3 +45,4 @@
 * [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/UniqueNumberofOccurrences/script.py)
 * [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DetermineifStringHalvesAreAlike/script.py)
 * [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DetermineifTwoStringsAreClose/script.py)
+* [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/InsertDeleteGetRandomO(1)/script.py)
