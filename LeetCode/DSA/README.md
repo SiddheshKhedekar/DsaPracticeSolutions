@@ -48,3 +48,4 @@
 * [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/InsertDeleteGetRandomO(1)/script.py)
 * [Ugly Number](https://leetcode.com/problems/ugly-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/UglyNumber/script.py)
 * [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SortCharactersByFrequency/script.py)
+* [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ContainsDuplicate/script.py)
