@@ -51,3 +51,4 @@
 * [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ContainsDuplicate/script.py)
 * [Rectangle Area](https://leetcode.com/problems/rectangle-area/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RectangleArea/script.py)
 * [House Robber II](https://leetcode.com/problems/house-robber-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/HouseRobberII/script.py)
+* [Jump Game](https://leetcode.com/problems/jump-game/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/JumpGame/script.py)
