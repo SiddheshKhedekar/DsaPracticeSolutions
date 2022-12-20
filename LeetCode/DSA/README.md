@@ -52,3 +52,4 @@
 * [Rectangle Area](https://leetcode.com/problems/rectangle-area/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RectangleArea/script.py)
 * [House Robber II](https://leetcode.com/problems/house-robber-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/HouseRobberII/script.py)
 * [Jump Game](https://leetcode.com/problems/jump-game/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/JumpGame/script.py)
+* [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KeysandRooms/script.py)
