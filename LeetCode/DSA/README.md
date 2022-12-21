@@ -54,3 +54,4 @@
 * [Jump Game](https://leetcode.com/problems/jump-game/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/JumpGame/script.py)
 * [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KeysandRooms/script.py)
 * [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RangeSumofBST/script.py)
+* [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DailyTemperatures/script.py)
