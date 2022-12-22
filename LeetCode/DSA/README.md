@@ -57,3 +57,4 @@
 * [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DailyTemperatures/script.py)
 * [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/EvaluateReversePolishNotation/script.py)
 * [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BasicCalculatorII/script.py)
+* [Basic Calculator](https://leetcode.com/problems/basic-calculator/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BasicCalculator/script.py)
