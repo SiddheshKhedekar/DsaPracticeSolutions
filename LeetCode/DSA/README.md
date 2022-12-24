@@ -61,3 +61,4 @@
 * [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BestTimetoBuyandSellStockwithCooldown/script.py)
 * [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumProfitinJobScheduling/script.py)
 * [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DominoandTrominoTiling/script.py)
+* [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Leaf-SimilarTrees/script.py)
