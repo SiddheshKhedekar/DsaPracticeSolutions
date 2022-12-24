@@ -1,7 +1,7 @@
 # Basic Calculator -> Python3
 
 '''
-Explanation: Write a calc function that takes index and run loop till len of string. for digits do 
+Explanation: Write a calc function that takes index and run loop till len of string. For digits do 
 appropriate processing else if operand call the update function else if ( then cal calc again and 
 if ) then call update. In update function check the operator and append to stack after processing. 
 Inside calc again set num and sign and update again return sum in stack.
