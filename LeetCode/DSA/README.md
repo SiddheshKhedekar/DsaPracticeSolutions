@@ -62,3 +62,4 @@
 * [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumProfitinJobScheduling/script.py)
 * [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DominoandTrominoTiling/script.py)
 * [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Leaf-SimilarTrees/script.py)
+* [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestSubsequenceWithLimitedSum/script.py)
