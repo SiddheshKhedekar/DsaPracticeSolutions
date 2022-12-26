@@ -65,3 +65,4 @@
 * [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestSubsequenceWithLimitedSum/script.py)
 * [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindifPathExistsinGraph/script.py)
 * [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DetermineWhetherMatrixCanBeObtainedByRotation/script.py)
+* [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SpiralMatrix/script.py)
