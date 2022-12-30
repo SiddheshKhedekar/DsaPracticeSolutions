@@ -73,3 +73,4 @@
 * [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountCompleteTreeNodes/script.py)
 * [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Single-ThreadedCPU/script.py)
 * [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AllPathsFromSourcetoTarget/script.py)
+* [Perfect Squares](https://leetcode.com/problems/perfect-squares/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PerfectSquares/script.py)
