@@ -75,3 +75,4 @@
 * [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AllPathsFromSourcetoTarget/script.py)
 * [Perfect Squares](https://leetcode.com/problems/perfect-squares/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PerfectSquares/script.py)
 * [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/UniquePathsIII/script.py)
+* [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumAverageDifference/script.py)
