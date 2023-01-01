@@ -77,3 +77,4 @@
 * [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/UniquePathsIII/script.py)
 * [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumAverageDifference/script.py)
 * [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BinaryTreePruning/script.py)
+* [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BinaryTreeRightSideView/script.py)
