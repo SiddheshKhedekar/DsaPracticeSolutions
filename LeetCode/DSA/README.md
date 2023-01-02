@@ -79,3 +79,4 @@
 * [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BinaryTreePruning/script.py)
 * [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BinaryTreeRightSideView/script.py)
 * [Detect Capital](https://leetcode.com/problems/detect-capital/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DetectCapital/script.py)
+* [Find Peak Element](https://leetcode.com/problems/find-peak-element/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindPeakElement/script.py)
