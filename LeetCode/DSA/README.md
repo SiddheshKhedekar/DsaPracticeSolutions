@@ -82,3 +82,4 @@
 * [Find Peak Element](https://leetcode.com/problems/find-peak-element/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindPeakElement/script.py)
 * [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DeleteColumnstoMakeSorted/script.py)
 * [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RemoveDuplicatesfromSortedListII/script.py)
+* [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumRoundstoCompleteAllTasks/script.py)
