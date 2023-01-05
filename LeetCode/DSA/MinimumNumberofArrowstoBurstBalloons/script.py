@@ -1,0 +1,15 @@
+# Minimum Number of Arrows to Burst Balloons -> Python3
+
+'''
+Explanation: Sort all segments by end and set count of arrows along with where arrow shot. Then 
+loop on points and if ans is 0 or start greater than arrow then increment ans and set arrow to end.
+'''
+
+class Solution:
+    def findMinArrowShots(self, points: List[List[int]]) -> int:
+        points.sort(key=lambda p: p[1])
+        ans, arrow = 0, 0
+        for [start, end] in points:
+            if ans == 0 or start > arrow:
+                ans, arrow = ans+1, end
+        return ans 
