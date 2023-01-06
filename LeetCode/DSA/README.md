@@ -86,3 +86,4 @@
 * [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ContainerWithMostWater/script.py)
 * [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumNumberofArrowstoBurstBalloons/script.py)
 * [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/IntervalListIntersections/script.py)
+* [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumIceCreamBars/script.py)
