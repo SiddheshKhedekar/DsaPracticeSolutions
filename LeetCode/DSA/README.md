@@ -87,3 +87,4 @@
 * [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumNumberofArrowstoBurstBalloons/script.py)
 * [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/IntervalListIntersections/script.py)
 * [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumIceCreamBars/script.py)
+* [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/N-aryTreeLevelOrderTraversal/script.py)
