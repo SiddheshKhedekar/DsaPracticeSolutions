@@ -89,3 +89,4 @@
 * [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumIceCreamBars/script.py)
 * [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/N-aryTreeLevelOrderTraversal/script.py)
 * [Gas Station](https://leetcode.com/problems/gas-station/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/GasStation/script.py)
+* [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindMedianfromDataStream/script.py)
