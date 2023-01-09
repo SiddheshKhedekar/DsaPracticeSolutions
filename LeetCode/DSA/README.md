@@ -93,3 +93,4 @@
 * [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TheNumberofWeakCharactersintheGame/script.py)
 * [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaxPointsonaLine/script.py)
 * [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ConvertSortedArraytoBinarySearchTree/script.py)
+* [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DeleteandEarn/script.py)
