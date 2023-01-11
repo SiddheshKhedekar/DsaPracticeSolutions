@@ -96,3 +96,4 @@
 * [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DeleteandEarn/script.py)
 * [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RepeatedSubstringPattern/script.py)
 * [Monotonic Array](https://leetcode.com/problems/monotonic-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MonotonicArray/script.py)
+* [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReverseLinkedList/script.py)
