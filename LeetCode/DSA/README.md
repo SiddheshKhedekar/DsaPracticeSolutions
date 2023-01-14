@@ -102,3 +102,4 @@
 * [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofNodesintheSub-TreeWiththeSameLabel/script.py)
 * [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CheckIfItIsaStraightLine/script.py)
 * [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestPathWithDifferentAdjacentCharacters/script.py)
+* [Ransom Note](https://leetcode.com/problems/ransom-note/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RansomNote/script.py)
