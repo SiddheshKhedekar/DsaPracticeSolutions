@@ -110,3 +110,4 @@
 * [Insert Interval](https://leetcode.com/problems/insert-interval/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/InsertInterval/script.py)
 * [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindPivotIndex/script.py)
 * [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumSumCircularSubarray/script.py)
+* [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountOddNumbersinanIntervalRange/script.py)
