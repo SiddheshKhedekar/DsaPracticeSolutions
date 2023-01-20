@@ -112,3 +112,4 @@
 * [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumSumCircularSubarray/script.py)
 * [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountOddNumbersinanIntervalRange/script.py)
 * [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SubarraySumsDivisiblebyK/script.py)
+* [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SortArrayByParity/script.py)
