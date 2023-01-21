@@ -115,3 +115,4 @@
 * [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SortArrayByParity/script.py)
 * [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Non-decreasingSubsequences/script.py)
 * [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BullsandCows/script.py)
+* [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RestoreIPAddresses/script.py)
