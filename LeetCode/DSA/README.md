@@ -118,3 +118,4 @@
 * [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RestoreIPAddresses/script.py)
 * [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PalindromePartitioning/script.py)
 * [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofProvinces/script.py)
+* [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PopulatingNextRightPointersinEachNodeII/script.py)
