@@ -122,3 +122,4 @@
 * [Count and Say](https://leetcode.com/problems/count-and-say/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountandSay/script.py)
 * [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BreakaPalindrome/script.py)
 * [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DeleteNodeinaLinkedList/script.py)
+* [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/IncreasingTripletSubsequence/script.py)
