@@ -125,3 +125,4 @@
 * [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/IncreasingTripletSubsequence/script.py)
 * [Reverse Integer](https://leetcode.com/problems/reverse-integer/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReverseInteger/script.py)
 * [Arranging Coins](https://leetcode.com/problems/arranging-coins/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ArrangingCoins/script.py)
+* [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ConcatenationofConsecutiveBinaryNumbers/script.py)
