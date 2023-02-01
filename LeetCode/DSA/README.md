@@ -128,3 +128,4 @@
 * [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ConcatenationofConsecutiveBinaryNumbers/script.py)
 * [Concatenated Words](https://leetcode.com/problems/concatenated-words/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ConcatenatedWords/script.py)
 * [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DataStreamasDisjointIntervals/script.py)
+* [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/GreatestCommonDivisorofStrings/script.py)
