@@ -131,3 +131,4 @@
 * [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/GreatestCommonDivisorofStrings/script.py)
 * [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BestTeamWithNoConflicts/script.py)
 * [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SumofSquareNumbers/script.py)
+* [Sqrt(x)](https://leetcode.com/problems/sqrtx/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Sqrt(x)/script.py)
