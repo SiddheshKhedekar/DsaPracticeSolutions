@@ -134,3 +134,4 @@
 * [Sqrt(x)](https://leetcode.com/problems/sqrtx/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Sqrt(x)/script.py)
 * [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ValidPerfectSquare/script.py)
 * [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Maximum69Number/script.py)
+* [JumpGameII](https://leetcode.com/problems/jump-game-ii) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/JumpGameII/script.py)
