@@ -137,3 +137,4 @@
 * [JumpGameII](https://leetcode.com/problems/jump-game-ii) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/JumpGameII/script.py)
 * [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WhereWilltheBallFall/script.py)
 * [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/OddEvenLinkedList/script.py)
+* [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AsFarfromLandasPossible/script.py)
