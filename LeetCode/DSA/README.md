@@ -136,3 +136,4 @@
 * [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Maximum69Number/script.py)
 * [JumpGameII](https://leetcode.com/problems/jump-game-ii) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/JumpGameII/script.py)
 * [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WhereWilltheBallFall/script.py)
+* [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/OddEvenLinkedList/script.py)
