@@ -140,3 +140,4 @@
 * [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AsFarfromLandasPossible/script.py)
 * [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/EarliestPossibleDayofFullBloom/script.py)
 * [Image Overlap](https://leetcode.com/problems/image-overlap/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ImageOverlap/script.py)
+* [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountSubIslands/script.py)
