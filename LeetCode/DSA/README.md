@@ -142,3 +142,4 @@
 * [Image Overlap](https://leetcode.com/problems/image-overlap/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ImageOverlap/script.py)
 * [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountSubIslands/script.py)
 * [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofEnclaves/script.py)
+* [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumProductSubarray/script.py)
