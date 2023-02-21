@@ -146,3 +146,4 @@
 * [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ContinuousSubarraySum/script.py)
 * [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RepeatedDNASequences/script.py)
 * [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SurroundedRegions/script.py)
+* [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SingleElementinaSortedArray/script.py)
