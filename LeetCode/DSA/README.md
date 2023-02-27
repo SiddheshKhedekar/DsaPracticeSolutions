@@ -153,3 +153,4 @@
 * [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SpiralMatrixII/script.py)
 * [Partition Labels](https://leetcode.com/problems/partition-labels/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PartitionLabels/script.py)
 * [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestPathwithAlternatingColors/script.py)
+* [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Non-overlappingIntervals/script.py)
