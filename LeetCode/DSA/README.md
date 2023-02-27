@@ -152,3 +152,4 @@
 * [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumLengthofSubarrayWithPositiveProduct/script.py)
 * [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SpiralMatrixII/script.py)
 * [Partition Labels](https://leetcode.com/problems/partition-labels/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PartitionLabels/script.py)
+* [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestPathwithAlternatingColors/script.py)
