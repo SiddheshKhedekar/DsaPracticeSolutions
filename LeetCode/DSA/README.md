@@ -154,3 +154,4 @@
 * [Partition Labels](https://leetcode.com/problems/partition-labels/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PartitionLabels/script.py)
 * [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestPathwithAlternatingColors/script.py)
 * [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Non-overlappingIntervals/script.py)
+* [Permutations](https://leetcode.com/problems/permutations/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Permutations/script.py)
