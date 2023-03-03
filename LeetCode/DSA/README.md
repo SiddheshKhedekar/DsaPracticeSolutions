@@ -157,3 +157,4 @@
 * [Permutations](https://leetcode.com/problems/permutations/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Permutations/script.py)
 * [Combinations](https://leetcode.com/problems/combinations/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Combinations/script.py)
 * [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SubarraySumEqualsK/script.py)
+* [Triangle](https://leetcode.com/problems/triangle/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Triangle/script.py)
