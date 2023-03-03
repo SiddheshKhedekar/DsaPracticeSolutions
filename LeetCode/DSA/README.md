@@ -156,3 +156,4 @@
 * [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Non-overlappingIntervals/script.py)
 * [Permutations](https://leetcode.com/problems/permutations/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Permutations/script.py)
 * [Combinations](https://leetcode.com/problems/combinations/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Combinations/script.py)
+* [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SubarraySumEqualsK/script.py)
