@@ -158,3 +158,4 @@
 * [Combinations](https://leetcode.com/problems/combinations/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Combinations/script.py)
 * [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SubarraySumEqualsK/script.py)
 * [Triangle](https://leetcode.com/problems/triangle/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Triangle/script.py)
+* [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheWinneroftheCircularGame/script.py)
