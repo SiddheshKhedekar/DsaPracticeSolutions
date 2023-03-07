@@ -160,3 +160,4 @@
 * [Triangle](https://leetcode.com/problems/triangle/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Triangle/script.py)
 * [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheWinneroftheCircularGame/script.py)
 * [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumRemovetoMakeValidParentheses/script.py)
+* [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumTimetoCompleteTrips/script.py)
