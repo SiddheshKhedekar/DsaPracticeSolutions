@@ -162,3 +162,4 @@
 * [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumRemovetoMakeValidParentheses/script.py)
 * [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumTimetoCompleteTrips/script.py)
 * [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountSubarraysWithFixedBounds/script.py)
+* [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KokoEatingBananas/script.py)
