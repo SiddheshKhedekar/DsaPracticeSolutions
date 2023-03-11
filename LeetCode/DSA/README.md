@@ -165,3 +165,4 @@
 * [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KokoEatingBananas/script.py)
 * [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CapacityToShipPackagesWithinDDays/script.py)
 * [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ConvertSortedListtoBinarySearchTree/script.py)
+* [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LinkedListRandomNode/script.py)
