@@ -172,3 +172,4 @@
 * [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SumRoottoLeafNumbers/script.py)
 * [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ConstructBinaryTreefromInorderandPostorderTraversal/script.py)
 * [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ImplementTrie(PrefixTree)/script.py)
+* [Design Browser History](https://leetcode.com/problems/design-browser-history/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignBrowserHistory/script.py)
