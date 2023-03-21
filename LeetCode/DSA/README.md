@@ -175,3 +175,4 @@
 * [Design Browser History](https://leetcode.com/problems/design-browser-history/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignBrowserHistory/script.py)
 * [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignAddandSearchWordsDataStructure/script.py)
 * [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CanPlaceFlowers/script.py)
+* [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofZero-FilledSubarrays/script.py)
