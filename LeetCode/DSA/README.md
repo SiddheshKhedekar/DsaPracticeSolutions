@@ -174,3 +174,4 @@
 * [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ImplementTrie(PrefixTree)/script.py)
 * [Design Browser History](https://leetcode.com/problems/design-browser-history/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignBrowserHistory/script.py)
 * [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignAddandSearchWordsDataStructure/script.py)
+* [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CanPlaceFlowers/script.py)
