@@ -176,3 +176,4 @@
 * [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignAddandSearchWordsDataStructure/script.py)
 * [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CanPlaceFlowers/script.py)
 * [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofZero-FilledSubarrays/script.py)
+* [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumScoreofaPathBetweenTwoCities/script.py)
