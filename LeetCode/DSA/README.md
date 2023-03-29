@@ -183,3 +183,4 @@
 * [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumPathSum/script.py)
 * [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestCycleinaGraph/script.py)
 * [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReducingDishes/script.py)
+* [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumCostForTickets/script.py)
