@@ -186,3 +186,4 @@
 * [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumCostForTickets/script.py)
 * [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestSubstringWithoutRepeatingCharacters/script.py)
 * [Set Mismatch](https://leetcode.com/problems/set-mismatch/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SetMismatch/script.py)
+* [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SuccessfulPairsofSpellsandPotions/script.py)
