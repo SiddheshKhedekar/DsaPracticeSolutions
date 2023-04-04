@@ -188,3 +188,4 @@
 * [Set Mismatch](https://leetcode.com/problems/set-mismatch/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SetMismatch/script.py)
 * [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SuccessfulPairsofSpellsandPotions/script.py)
 * [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DiameterofBinaryTree/script.py)
+* [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/OptimalPartitionofString/script.py)
