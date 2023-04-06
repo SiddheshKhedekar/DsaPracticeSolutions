@@ -191,3 +191,4 @@
 * [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/OptimalPartitionofString/script.py)
 * [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BoatstoSavePeople/script.py)
 * [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimizeMaximumofArray/script.py)
+* [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofClosedIslands/script.py)
