@@ -193,3 +193,4 @@
 * [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimizeMaximumofArray/script.py)
 * [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofClosedIslands/script.py)
 * [Clone Graph](https://leetcode.com/problems/clone-graph/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CloneGraph/script.py)
+* [Scramble String](https://leetcode.com/problems/scramble-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ScrambleString/script.py)
