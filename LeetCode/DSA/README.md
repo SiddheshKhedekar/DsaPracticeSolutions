@@ -194,3 +194,4 @@
 * [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofClosedIslands/script.py)
 * [Clone Graph](https://leetcode.com/problems/clone-graph/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CloneGraph/script.py)
 * [Scramble String](https://leetcode.com/problems/scramble-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ScrambleString/script.py)
+* [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KthSmallestElementinaBST/script.py)
