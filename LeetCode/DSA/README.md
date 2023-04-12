@@ -196,3 +196,4 @@
 * [Scramble String](https://leetcode.com/problems/scramble-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ScrambleString/script.py)
 * [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KthSmallestElementinaBST/script.py)
 * [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KthLargestElementinanArray/script.py)
+* [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RemovingStarsFromaString/script.py)
