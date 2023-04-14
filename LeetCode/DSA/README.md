@@ -198,3 +198,4 @@
 * [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KthLargestElementinanArray/script.py)
 * [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RemovingStarsFromaString/script.py)
 * [Simplify Path](https://leetcode.com/problems/simplify-path/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SimplifyPath/script.py)
+* [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestPalindromicSubsequence/script.py)
