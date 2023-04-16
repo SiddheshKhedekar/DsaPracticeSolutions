@@ -200,3 +200,4 @@
 * [Simplify Path](https://leetcode.com/problems/simplify-path/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SimplifyPath/script.py)
 * [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestPalindromicSubsequence/script.py)
 * [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ValidateStackSequences/script.py)
+* [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofWaystoFormaTargetStringGivenaDictionary/script.py)
