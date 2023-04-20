@@ -205,3 +205,4 @@
 * [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KidsWiththeGreatestNumberofCandies/script.py)
 * [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MergeStringsAlternately/script.py)
 * [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumWidthofBinaryTree/script.py)
+* [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestZigZagPathinaBinaryTree/script.py)
