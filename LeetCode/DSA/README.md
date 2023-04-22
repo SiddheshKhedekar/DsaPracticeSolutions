@@ -206,3 +206,4 @@
 * [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MergeStringsAlternately/script.py)
 * [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumWidthofBinaryTree/script.py)
 * [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestZigZagPathinaBinaryTree/script.py)
+* [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumInsertionStepstoMakeaStringPalindrome/script.py)
