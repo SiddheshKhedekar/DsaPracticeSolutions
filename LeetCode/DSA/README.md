@@ -211,3 +211,4 @@
 * [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LinkedListCycleII/script.py)
 * [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SpecialArrayWithXElementsGreaterThanorEqualX/script.py)
 * [Add Digits](https://leetcode.com/problems/add-digits/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddDigits/script.py)
+* [Rotate Image](https://leetcode.com/problems/rotate-image/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RotateImage/script.py)
