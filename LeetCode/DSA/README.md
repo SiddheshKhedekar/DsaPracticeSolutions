@@ -213,3 +213,4 @@
 * [Add Digits](https://leetcode.com/problems/add-digits/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddDigits/script.py)
 * [Rotate Image](https://leetcode.com/problems/rotate-image/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RotateImage/script.py)
 * [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ProductofArrayExceptSelf/script.py)
+* [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BulbSwitcher/script.py)
