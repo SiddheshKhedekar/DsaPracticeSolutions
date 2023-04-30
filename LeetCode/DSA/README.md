@@ -215,3 +215,4 @@
 * [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ProductofArrayExceptSelf/script.py)
 * [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BulbSwitcher/script.py)
 * [Multiply Strings](https://leetcode.com/problems/multiply-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MultiplyStrings/script.py)
+* [3Sum](https://leetcode.com/problems/3sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/3Sum/script.py)
