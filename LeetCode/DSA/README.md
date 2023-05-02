@@ -216,3 +216,4 @@
 * [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BulbSwitcher/script.py)
 * [Multiply Strings](https://leetcode.com/problems/multiply-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MultiplyStrings/script.py)
 * [3Sum](https://leetcode.com/problems/3sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/3Sum/script.py)
+* [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestPalindromicSubstring/script.py)
