@@ -217,3 +217,4 @@
 * [Multiply Strings](https://leetcode.com/problems/multiply-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MultiplyStrings/script.py)
 * [3Sum](https://leetcode.com/problems/3sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/3Sum/script.py)
 * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestPalindromicSubstring/script.py)
+* [Restore The Array](https://leetcode.com/problems/restore-the-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RestoreTheArray/script.py)
