@@ -222,3 +222,4 @@
 * [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Searcha2DMatrixII/script.py)
 * [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MatrixDiagonalSum/script.py)
 * [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheDifferenceofTwoArrays/script.py)
+* [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SignoftheProductofanArray/script.py)
