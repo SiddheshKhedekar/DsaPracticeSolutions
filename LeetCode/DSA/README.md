@@ -224,3 +224,4 @@
 * [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheDifferenceofTwoArrays/script.py)
 * [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SignoftheProductofanArray/script.py)
 * [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AverageSalaryExcludingtheMinimumandMaximumSalary/script.py)
+* [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReverseNodesink-Group/script.py)
