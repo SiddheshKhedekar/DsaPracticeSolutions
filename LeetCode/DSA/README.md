@@ -227,3 +227,4 @@
 * [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReverseNodesink-Group/script.py)
 * [Reorder List](https://leetcode.com/problems/reorder-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReorderList/script.py)
 * [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SumofEvenNumbersAfterQueries/script.py)
+* [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ValidateBinarySearchTree/script.py)
