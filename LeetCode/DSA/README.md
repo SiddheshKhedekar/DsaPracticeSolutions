@@ -232,3 +232,4 @@
 * [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumNumberofVerticestoReachAllNodes/script.py)
 * [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TopKFrequentElements/script.py)
 * [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KClosestPointstoOrigin/script.py)
+* [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SolvingQuestionsWithBrainpower/script.py)
