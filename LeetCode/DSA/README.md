@@ -233,3 +233,4 @@
 * [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TopKFrequentElements/script.py)
 * [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KClosestPointstoOrigin/script.py)
 * [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SolvingQuestionsWithBrainpower/script.py)
+* [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumNumberofVowelsinaSubstringofGivenLength/script.py)
