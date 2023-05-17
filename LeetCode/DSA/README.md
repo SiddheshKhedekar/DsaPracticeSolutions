@@ -235,3 +235,4 @@
 * [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SolvingQuestionsWithBrainpower/script.py)
 * [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumNumberofVowelsinaSubstringofGivenLength/script.py)
 * [Merge Intervals](https://leetcode.com/problems/merge-intervals/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MergeIntervals/script.py)
+* [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SmallestNumberinInfiniteSet/script.py)
