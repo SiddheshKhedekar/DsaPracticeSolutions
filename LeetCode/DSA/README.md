@@ -234,3 +234,4 @@
 * [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KClosestPointstoOrigin/script.py)
 * [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SolvingQuestionsWithBrainpower/script.py)
 * [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumNumberofVowelsinaSubstringofGivenLength/script.py)
+* [Merge Intervals](https://leetcode.com/problems/merge-intervals/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MergeIntervals/script.py)
