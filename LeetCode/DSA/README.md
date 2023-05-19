@@ -237,3 +237,4 @@
 * [Merge Intervals](https://leetcode.com/problems/merge-intervals/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MergeIntervals/script.py)
 * [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SmallestNumberinInfiniteSet/script.py)
 * [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BinarySearchTreeIterator/script.py)
+* [Task Scheduler](https://leetcode.com/problems/task-scheduler/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TaskScheduler/script.py)
