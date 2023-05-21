@@ -240,3 +240,4 @@
 * [Task Scheduler](https://leetcode.com/problems/task-scheduler/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TaskScheduler/script.py)
 * [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SwappingNodesinaLinkedList/script.py)
 * [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumTwinSumofaLinkedList/script.py)
+* [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Dota2Senate/script.py)
