@@ -246,3 +246,4 @@
 * [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KthLargestElementinaStream/script.py)
 * [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountWaysToBuildGoodStrings/script.py)
 * [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/UncrossedLines/script.py)
+* [Path Sum II](https://leetcode.com/problems/path-sum-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PathSumII/script.py)
