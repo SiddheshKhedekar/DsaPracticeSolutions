@@ -244,3 +244,4 @@
 * [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofSubsequencesThatSatisfytheGivenSumCondition/script.py)
 * [Coin Change](https://leetcode.com/problems/coin-change/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CoinChange/script.py)
 * [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KthLargestElementinaStream/script.py)
+* [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountWaysToBuildGoodStrings/script.py)
