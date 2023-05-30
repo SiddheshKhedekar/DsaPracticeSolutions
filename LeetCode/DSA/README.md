@@ -250,3 +250,4 @@
 * [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheLongestValidObstacleCourseatEachPosition/script.py)
 * [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PartitionEqualSubsetSum/script.py)
 * [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumSubsequenceScore/script.py)
+* [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AsteroidCollision/script.py)
