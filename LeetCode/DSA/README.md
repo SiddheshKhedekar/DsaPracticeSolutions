@@ -255,3 +255,4 @@
 * [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MostStonesRemovedwithSameRoworColumn/script.py)
 * [Design HashSet](https://leetcode.com/problems/design-hashset/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignHashSet/script.py)
 * [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SerializeandDeserializeBinaryTree/script.py)
+* [Path Sum III](https://leetcode.com/problems/path-sum-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PathSumIII/script.py)
