@@ -253,3 +253,4 @@
 * [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AsteroidCollision/script.py)
 * [Design Parking System](https://leetcode.com/problems/design-parking-system/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignParkingSystem/script.py)
 * [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MostStonesRemovedwithSameRoworColumn/script.py)
+* [Design HashSet](https://leetcode.com/problems/design-hashset/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignHashSet/script.py)
