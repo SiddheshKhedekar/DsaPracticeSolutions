@@ -252,3 +252,4 @@
 * [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumSubsequenceScore/script.py)
 * [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AsteroidCollision/script.py)
 * [Design Parking System](https://leetcode.com/problems/design-parking-system/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignParkingSystem/script.py)
+* [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MostStonesRemovedwithSameRoworColumn/script.py)
