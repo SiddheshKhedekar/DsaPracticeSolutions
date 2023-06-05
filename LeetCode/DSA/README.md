@@ -258,3 +258,4 @@
 * [Path Sum III](https://leetcode.com/problems/path-sum-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PathSumIII/script.py)
 * [Evaluate Division](https://leetcode.com/problems/evaluate-division/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/EvaluateDivision/script.py)
 * [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumCosttoCutaStick/script.py)
+* [Design Underground System](https://leetcode.com/problems/design-underground-system/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignUndergroundSystem/script.py)
