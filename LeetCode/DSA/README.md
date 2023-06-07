@@ -263,3 +263,4 @@
 * [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BackspaceStringCompare/script.py)
 * [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TimeNeededtoInformAllEmployees/script.py)
 * [New 21 Game](https://leetcode.com/problems/new-21-game/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/New21Game/script.py)
+* [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ImplementQueueusingStacks/script.py)
