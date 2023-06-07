@@ -260,3 +260,4 @@
 * [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumCosttoCutaStick/script.py)
 * [Design Underground System](https://leetcode.com/problems/design-underground-system/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignUndergroundSystem/script.py)
 * [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindAllAnagramsinaString/script.py)
+* [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BackspaceStringCompare/script.py)
