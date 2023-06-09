@@ -267,3 +267,4 @@
 * [Stone Game II](https://leetcode.com/problems/stone-game-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/StoneGameII/script.py)
 * [Stone Game III](https://leetcode.com/problems/stone-game-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/StoneGameIII/script.py)
 * [Two Sum](https://leetcode.com/problems/two-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TwoSum/script.py)
+* [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LastStoneWeight/script.py)
