@@ -268,3 +268,4 @@
 * [Stone Game III](https://leetcode.com/problems/stone-game-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/StoneGameIII/script.py)
 * [Two Sum](https://leetcode.com/problems/two-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TwoSum/script.py)
 * [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LastStoneWeight/script.py)
+* [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/GenerateParentheses/script.py)
