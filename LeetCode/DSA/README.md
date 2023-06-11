@@ -134,7 +134,7 @@
 * [Sqrt(x)](https://leetcode.com/problems/sqrtx/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Sqrt(x)/script.py)
 * [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ValidPerfectSquare/script.py)
 * [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Maximum69Number/script.py)
-* [JumpGameII](https://leetcode.com/problems/jump-game-ii) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/JumpGameII/script.py)
+* [Jump Game II](https://leetcode.com/problems/jump-game-ii) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/JumpGameII/script.py)
 * [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WhereWilltheBallFall/script.py)
 * [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/OddEvenLinkedList/script.py)
 * [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AsFarfromLandasPossible/script.py)
@@ -269,3 +269,4 @@
 * [Two Sum](https://leetcode.com/problems/two-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TwoSum/script.py)
 * [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LastStoneWeight/script.py)
 * [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/GenerateParentheses/script.py)
+* [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LetterCombinationsofaPhoneNumber/script.py)
