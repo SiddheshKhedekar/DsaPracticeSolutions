@@ -271,3 +271,4 @@
 * [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/GenerateParentheses/script.py)
 * [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LetterCombinationsofaPhoneNumber/script.py)
 * [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MergeTwoBinaryTrees/script.py)
+* [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddtoArray-FormofInteger/script.py)
