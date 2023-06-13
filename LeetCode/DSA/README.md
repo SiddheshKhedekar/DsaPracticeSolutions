@@ -274,3 +274,4 @@
 * [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddtoArray-FormofInteger/script.py)
 * [Plus One](https://leetcode.com/problems/plus-one/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PlusOne/script.py)
 * [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/IsomorphicStrings/script.py)
+* [Is Subsequence](https://leetcode.com/problems/is-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/IsSubsequence/script.py)
