@@ -277,3 +277,4 @@
 * [Is Subsequence](https://leetcode.com/problems/is-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/IsSubsequence/script.py)
 * [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RemoveDuplicatesfromSortedList/script.py)
 * [Path Sum](https://leetcode.com/problems/path-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PathSum/script.py)
+* [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/InvertBinaryTree/script.py)
