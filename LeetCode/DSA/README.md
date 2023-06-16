@@ -279,3 +279,4 @@
 * [Path Sum](https://leetcode.com/problems/path-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PathSum/script.py)
 * [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/InvertBinaryTree/script.py)
 * [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumDepthofBinaryTree/script.py)
+* [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/VerifyinganAlienDictionary/script.py)
