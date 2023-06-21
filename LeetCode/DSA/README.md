@@ -286,3 +286,4 @@
 * [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/N-aryTreePreorderTraversal/script.py)
 * [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RomantoInteger/script.py)
 * [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Pascal'sTriangle/script.py)
+* [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BalancedBinaryTree/script.py)
