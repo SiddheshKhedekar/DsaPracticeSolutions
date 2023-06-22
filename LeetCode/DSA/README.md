@@ -289,3 +289,4 @@
 * [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BalancedBinaryTree/script.py)
 * [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LengthofLastWord/script.py)
 * [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheHighestAltitude/script.py)
+* [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumFlipstoMakeaORbEqualtoc/script.py)
