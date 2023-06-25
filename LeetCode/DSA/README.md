@@ -294,3 +294,4 @@
 * [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumDistanceBetweenaPairofValues/script.py)
 * [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TwoSumII-InputArrayIsSorted/script.py)
 * [Decode Ways](https://leetcode.com/problems/decode-ways/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DecodeWays/script.py)
+* [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindOriginalArrayFromDoubledArray/script.py)
