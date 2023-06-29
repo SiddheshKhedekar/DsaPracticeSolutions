@@ -298,3 +298,4 @@
 * [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountNegativeNumbersinaSortedMatrix/script.py)
 * [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SuperEggDrop/script.py)
 * [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestPalindromebyConcatenatingTwoLetterWords/script.py)
+* [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BitwiseANDofNumbersRange/script.py)
