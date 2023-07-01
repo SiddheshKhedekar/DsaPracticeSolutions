@@ -302,3 +302,4 @@
 * [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShuffleanArray/script.py)
 * [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FairDistributionofCookies/script.py)
 * [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddTwoNumbersII/script.py)
+* [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LastDayWhereYouCanStillCross/script.py)
