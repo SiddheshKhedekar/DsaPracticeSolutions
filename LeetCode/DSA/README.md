@@ -300,3 +300,4 @@
 * [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestPalindromebyConcatenatingTwoLetterWords/script.py)
 * [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BitwiseANDofNumbersRange/script.py)
 * [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShuffleanArray/script.py)
+* [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FairDistributionofCookies/script.py)
