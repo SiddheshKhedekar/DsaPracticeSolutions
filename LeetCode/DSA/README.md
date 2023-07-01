@@ -305,3 +305,4 @@
 * [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LastDayWhereYouCanStillCross/script.py)
 * [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CopyListwithRandomPointer/script.py)
 * [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestPathtoGetAllKeys/script.py)
+* [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SmallestRangeII/script.py)
