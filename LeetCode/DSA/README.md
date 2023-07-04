@@ -308,3 +308,4 @@
 * [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SmallestRangeII/script.py)
 * [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SeatReservationManager/script.py)
 * [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumNumberofAchievableTransferRequests/script.py)
+* [Single Number II](https://leetcode.com/problems/single-number-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SingleNumberII/script.py)
