@@ -314,3 +314,4 @@
 * [Rotate List](https://leetcode.com/problems/rotate-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RotateList/script.py)
 * [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RangeSumQuery2D-Immutable/script.py)
 * [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountAllPossibleRoutes/script.py)
+* [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheIndexoftheFirstOccurrenceinaString/script.py)
