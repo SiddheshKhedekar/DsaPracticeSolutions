@@ -312,3 +312,4 @@
 * [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FlattenNestedListIterator/script.py)
 * [Buddy Strings](https://leetcode.com/problems/buddy-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BuddyStrings/script.py)
 * [Rotate List](https://leetcode.com/problems/rotate-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RotateList/script.py)
+* [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RangeSumQuery2D-Immutable/script.py)
