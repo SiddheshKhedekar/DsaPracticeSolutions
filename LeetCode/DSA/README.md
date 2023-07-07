@@ -310,3 +310,4 @@
 * [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumNumberofAchievableTransferRequests/script.py)
 * [Single Number II](https://leetcode.com/problems/single-number-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SingleNumberII/script.py)
 * [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FlattenNestedListIterator/script.py)
+* [Buddy Strings](https://leetcode.com/problems/buddy-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BuddyStrings/script.py)
