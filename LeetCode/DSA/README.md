@@ -318,3 +318,4 @@
 * [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestIncreasingSubsequence/script.py)
 * [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PathwithMaximumProbability/script.py)
 * [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindKPairswithSmallestSums/script.py)
+* [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumDepthofBinaryTree/script.py)
