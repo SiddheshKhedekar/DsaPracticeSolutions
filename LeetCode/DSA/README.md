@@ -325,3 +325,4 @@
 * [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NextGreaterElementIII/script.py)
 * [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NextGreaterElementII/script.py)
 * [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TotalCosttoHireKWorkers/script.py)
+* [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ArithmeticSubarrays/script.py)
