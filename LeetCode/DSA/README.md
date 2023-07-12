@@ -322,3 +322,4 @@
 * [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestSubarrayof1'sAfterDeletingOneElement/script.py)
 * [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindEventualSafeStates/script.py)
 * [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximizetheConfusionofanExam/script.py)
+* [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NextGreaterElementIII/script.py)
