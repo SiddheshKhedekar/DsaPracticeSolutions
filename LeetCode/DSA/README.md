@@ -320,3 +320,4 @@
 * [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindKPairswithSmallestSums/script.py)
 * [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumDepthofBinaryTree/script.py)
 * [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestSubarrayof1'sAfterDeletingOneElement/script.py)
+* [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindEventualSafeStates/script.py)
