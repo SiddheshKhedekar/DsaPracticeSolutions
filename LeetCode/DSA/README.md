@@ -326,3 +326,4 @@
 * [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NextGreaterElementII/script.py)
 * [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TotalCosttoHireKWorkers/script.py)
 * [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ArithmeticSubarrays/script.py)
+* [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestArithmeticSubsequenceofGivenDifference/script.py)
