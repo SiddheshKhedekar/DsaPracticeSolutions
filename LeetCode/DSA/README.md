@@ -328,3 +328,4 @@
 * [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ArithmeticSubarrays/script.py)
 * [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestArithmeticSubsequenceofGivenDifference/script.py)
 * [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PutMarblesinBags/script.py)
+* [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WaterandJugProblem/script.py)
