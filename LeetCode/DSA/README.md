@@ -334,3 +334,4 @@
 * [Word Ladder](https://leetcode.com/problems/word-ladder/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WordLadder/script.py)
 * [Jump Game III](https://leetcode.com/problems/jump-game-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/JumpGameIII/script.py)
 * [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestPathVisitingAllNodes/script.py)
+* [Course Schedule](https://leetcode.com/problems/course-schedule/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CourseSchedule/script.py)
