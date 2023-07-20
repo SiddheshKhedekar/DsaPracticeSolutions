@@ -336,3 +336,4 @@
 * [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestPathVisitingAllNodes/script.py)
 * [Course Schedule](https://leetcode.com/problems/course-schedule/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CourseSchedule/script.py)
 * [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TallestBillboard/script.py)
+* [My Calendar I](https://leetcode.com/problems/my-calendar-i/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MyCalendarI/script.py)
