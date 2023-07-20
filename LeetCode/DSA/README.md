@@ -337,3 +337,4 @@
 * [Course Schedule](https://leetcode.com/problems/course-schedule/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CourseSchedule/script.py)
 * [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TallestBillboard/script.py)
 * [My Calendar I](https://leetcode.com/problems/my-calendar-i/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MyCalendarI/script.py)
+* [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumNumberofEventsThatCanBeAttendedII/script.py)
