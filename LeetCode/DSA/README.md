@@ -345,3 +345,4 @@
 * [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KnightProbabilityinChessboard/script.py)
 * [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SumofSubarrayMinimums/script.py)
 * [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NearestExitfromEntranceinMaze/script.py)
+* [Open the Lock](https://leetcode.com/problems/open-the-lock/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/OpentheLock/script.py)
