@@ -342,3 +342,4 @@
 * [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BestSightseeingPair/script.py)
 * [Pow(x, n)](https://leetcode.com/problems/powx-n/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Pow(x,n)/script.py)
 * [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AllPossibleFullBinaryTrees/script.py)
+* [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KnightProbabilityinChessboard/script.py)
