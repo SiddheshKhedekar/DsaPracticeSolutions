@@ -341,3 +341,4 @@
 * [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BestTimetoBuyandSellStockII/script.py)
 * [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BestSightseeingPair/script.py)
 * [Pow(x, n)](https://leetcode.com/problems/powx-n/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Pow(x,n)/script.py)
+* [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AllPossibleFullBinaryTrees/script.py)
