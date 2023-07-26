@@ -346,3 +346,4 @@
 * [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SumofSubarrayMinimums/script.py)
 * [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NearestExitfromEntranceinMaze/script.py)
 * [Open the Lock](https://leetcode.com/problems/open-the-lock/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/OpentheLock/script.py)
+* [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumSpeedtoArriveonTime/script.py)
