@@ -348,3 +348,4 @@
 * [Open the Lock](https://leetcode.com/problems/open-the-lock/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/OpentheLock/script.py)
 * [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumSpeedtoArriveonTime/script.py)
 * [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximalNetworkRank/script.py)
+* [Soup Servings](https://leetcode.com/problems/soup-servings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SoupServings/script.py)
