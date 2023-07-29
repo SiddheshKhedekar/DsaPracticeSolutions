@@ -349,3 +349,4 @@
 * [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumSpeedtoArriveonTime/script.py)
 * [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximalNetworkRank/script.py)
 * [Soup Servings](https://leetcode.com/problems/soup-servings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SoupServings/script.py)
+* [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumFallingPathSum/script.py)

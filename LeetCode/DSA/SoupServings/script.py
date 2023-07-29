@@ -18,7 +18,8 @@ class Solution:
             if x <= 0 and y <= 0: return 0.5
             if x <= 0: return 1
             if y <= 0: return 0
-            mem[(x, y)] = 0.25 * (func(x - 4, y) + func(x - 3, y - 1) + func(x - 2, y - 2) + func(x - 1, y - 3))
+            mem[(x, y)] = 0.25 * (func(x - 4, y) + func(x - 3, y - 1) + func(x - 2, y - 2) + \
+            func(x - 1, y - 3))
             return mem[(x, y)]
         n = math.ceil(n / 25.0)
         return func(n, n)
