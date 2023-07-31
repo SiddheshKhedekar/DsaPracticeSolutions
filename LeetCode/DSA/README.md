@@ -355,3 +355,4 @@
 * [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumRunningTimeofNComputers/script.py)
 * [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/UniqueBinarySearchTrees/script.py)
 * [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/UglyNumberII/script.py)
+* [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestArithmeticSubsequence/script.py)
