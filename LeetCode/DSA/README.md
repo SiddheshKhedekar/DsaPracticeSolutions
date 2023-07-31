@@ -352,3 +352,4 @@
 * [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumFallingPathSum/script.py)
 * [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BestTimetoBuyandSellStockwithTransactionFee/script.py)
 * [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PredicttheWinner/script.py)
+* [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumRunningTimeofNComputers/script.py)
