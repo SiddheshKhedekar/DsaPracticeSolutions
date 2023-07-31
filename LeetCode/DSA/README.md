@@ -350,3 +350,4 @@
 * [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximalNetworkRank/script.py)
 * [Soup Servings](https://leetcode.com/problems/soup-servings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SoupServings/script.py)
 * [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumFallingPathSum/script.py)
+* [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BestTimetoBuyandSellStockwithTransactionFee/script.py)
