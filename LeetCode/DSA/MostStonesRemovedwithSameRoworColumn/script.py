@@ -1,9 +1,14 @@
 # Most Stones Removed with Same Row or Column -> Python3
 
 '''
-Explanation: Define uf as dict and run for loop on stones to set the uf at find i as the find ~j 
-then return len stones minus the len of dict populated by find x for all x in uf. In find function 
-check if x is not same as uf setdefault of x,x to set uf at x as find of uf at x and return uf at x.
+Explanation: We can remove a stone if and only if, there is another stone in the same column or 
+row. We try to remove as many as stones as possible. Connected stones will build a connected graph. 
+In one connected graph, we can't remove all stones we need one stone left. The elements are not the 
+points, but the indexes. For each point, union two indexes then return points number - union 
+number. For implementing union find we use dict uf and define find function. Loop on stones in main 
+function to set the uf at find i ans find ~j then return the len of stones - the len of find x for 
+x in uf. Inside find we check if x and uf setdefault is not same to set uf at x as find of uf at x 
+and return uf at x.
 '''
 
 class Solution:
