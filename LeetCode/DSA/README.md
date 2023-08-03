@@ -359,3 +359,4 @@
 * [Maximal Square](https://leetcode.com/problems/maximal-square/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximalSquare/script.py)
 * [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumCosttoMakeArrayEqual/script.py)
 * [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WiggleSubsequence/script.py)
+* [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KRadiusSubarrayAverages/script.py)
