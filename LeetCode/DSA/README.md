@@ -363,3 +363,4 @@
 * [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LinkedListinBinaryTree/script.py)
 * [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SimilarStringGroups/script.py)
 * [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CheckingExistenceofEdgeLengthLimitedPaths/script.py)
+* [Word Search](https://leetcode.com/problems/word-search/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WordSearch/script.py)
