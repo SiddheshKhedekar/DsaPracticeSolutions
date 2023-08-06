@@ -364,3 +364,4 @@
 * [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SimilarStringGroups/script.py)
 * [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CheckingExistenceofEdgeLengthLimitedPaths/script.py)
 * [Word Search](https://leetcode.com/problems/word-search/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WordSearch/script.py)
+* [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofIncreasingPathsinaGrid/script.py)
