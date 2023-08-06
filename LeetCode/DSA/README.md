@@ -361,3 +361,4 @@
 * [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WiggleSubsequence/script.py)
 * [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KRadiusSubarrayAverages/script.py)
 * [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LinkedListinBinaryTree/script.py)
+* [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SimilarStringGroups/script.py)
