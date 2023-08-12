@@ -373,3 +373,4 @@
 * [H-Index II](https://leetcode.com/problems/h-index-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/H-IndexII/script.py)
 * [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheDuplicateNumber/script.py)
 * [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PacificAtlanticWaterFlow/script.py)
+* [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestBridge/script.py)
