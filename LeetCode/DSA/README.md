@@ -375,3 +375,4 @@
 * [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PacificAtlanticWaterFlow/script.py)
 * [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestBridge/script.py)
 * [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DetonatetheMaximumBombs/script.py)
+* [Bus Routes](https://leetcode.com/problems/bus-routes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BusRoutes/script.py)
