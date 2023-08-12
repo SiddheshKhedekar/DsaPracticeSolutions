@@ -372,3 +372,4 @@
 * [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheSmallestDivisorGivenaThreshold/script.py)
 * [H-Index II](https://leetcode.com/problems/h-index-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/H-IndexII/script.py)
 * [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheDuplicateNumber/script.py)
+* [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PacificAtlanticWaterFlow/script.py)
