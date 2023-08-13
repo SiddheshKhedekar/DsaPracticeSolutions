@@ -376,3 +376,4 @@
 * [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestBridge/script.py)
 * [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DetonatetheMaximumBombs/script.py)
 * [Bus Routes](https://leetcode.com/problems/bus-routes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BusRoutes/script.py)
+* [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MakeArrayStrictlyIncreasing/script.py)
