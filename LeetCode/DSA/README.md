@@ -379,3 +379,4 @@
 * [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MakeArrayStrictlyIncreasing/script.py)
 * [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CourseScheduleII/script.py)
 * [Partition List](https://leetcode.com/problems/partition-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PartitionList/script.py)
+* [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofWaystoReorderArraytoGetSameBST/script.py)
