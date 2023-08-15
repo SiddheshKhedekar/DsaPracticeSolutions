@@ -378,3 +378,4 @@
 * [Bus Routes](https://leetcode.com/problems/bus-routes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BusRoutes/script.py)
 * [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MakeArrayStrictlyIncreasing/script.py)
 * [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CourseScheduleII/script.py)
+* [Partition List](https://leetcode.com/problems/partition-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PartitionList/script.py)
