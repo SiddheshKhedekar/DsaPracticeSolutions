@@ -382,3 +382,4 @@
 * [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofWaystoReorderArraytoGetSameBST/script.py)
 * [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SlidingWindowMaximum/script.py)
 * [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximizeScoreAfterNOperations/script.py)
+* [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FrequencyoftheMostFrequentElement/script.py)
