@@ -392,3 +392,4 @@
 * [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofLongestIncreasingSubsequence/script.py)
 * [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumLengthofPairChain/script.py)
 * [Interleaving String](https://leetcode.com/problems/interleaving-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/InterleavingString/script.py)
+* [Text Justification](https://leetcode.com/problems/text-justification/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TextJustification/script.py)
