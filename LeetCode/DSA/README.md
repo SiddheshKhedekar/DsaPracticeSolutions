@@ -396,3 +396,4 @@
 * [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DeleteOperationforTwoStrings/script.py)
 * [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddTwoNumbers/script.py)
 * [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestPathinaGridwithObstaclesElimination/script.py)
+* [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FlattenaMultilevelDoublyLinkedList/script.py)
