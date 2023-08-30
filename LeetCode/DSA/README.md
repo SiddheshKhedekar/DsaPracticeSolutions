@@ -397,3 +397,4 @@
 * [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddTwoNumbers/script.py)
 * [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestPathinaGridwithObstaclesElimination/script.py)
 * [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FlattenaMultilevelDoublyLinkedList/script.py)
+* [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumGeneticMutation/script.py)
