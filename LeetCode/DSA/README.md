@@ -394,3 +394,4 @@
 * [Interleaving String](https://leetcode.com/problems/interleaving-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/InterleavingString/script.py)
 * [Text Justification](https://leetcode.com/problems/text-justification/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TextJustification/script.py)
 * [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DeleteOperationforTwoStrings/script.py)
+* [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddTwoNumbers/script.py)
