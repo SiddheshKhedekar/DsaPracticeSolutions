@@ -400,3 +400,4 @@
 * [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumGeneticMutation/script.py)
 * [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestPathinBinaryMatrix/script.py)
 * [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CheckIfTwoStringArraysareEquivalent/script.py)
+* [01 Matrix](https://leetcode.com/problems/01-matrix/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/01Matrix/script.py)
