@@ -401,3 +401,4 @@
 * [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ShortestPathinBinaryMatrix/script.py)
 * [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CheckIfTwoStringArraysareEquivalent/script.py)
 * [01 Matrix](https://leetcode.com/problems/01-matrix/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/01Matrix/script.py)
+* [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RottingOranges/script.py)
