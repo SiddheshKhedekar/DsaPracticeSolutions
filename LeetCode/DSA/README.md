@@ -404,3 +404,4 @@
 * [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RottingOranges/script.py)
 * [Permutation in String](https://leetcode.com/problems/permutation-in-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PermutationinString/script.py)
 * [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaxAreaofIsland/script.py)
+* [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PopulatingNextRightPointersinEachNode/script.py)
