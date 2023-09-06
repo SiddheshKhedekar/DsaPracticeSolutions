@@ -402,3 +402,4 @@
 * [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CheckIfTwoStringArraysareEquivalent/script.py)
 * [01 Matrix](https://leetcode.com/problems/01-matrix/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/01Matrix/script.py)
 * [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RottingOranges/script.py)
+* [Permutation in String](https://leetcode.com/problems/permutation-in-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PermutationinString/script.py)
