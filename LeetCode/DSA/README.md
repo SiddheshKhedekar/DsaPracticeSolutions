@@ -408,3 +408,4 @@
 * [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumWindowSubstring/script.py)
 * [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PalindromeLinkedList/script.py)
 * [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestRepeatingCharacterReplacement/script.py)
+* [Decode String](https://leetcode.com/problems/decode-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DecodeString/script.py)
