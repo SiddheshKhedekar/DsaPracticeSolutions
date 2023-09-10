@@ -409,3 +409,4 @@
 * [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PalindromeLinkedList/script.py)
 * [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestRepeatingCharacterReplacement/script.py)
 * [Decode String](https://leetcode.com/problems/decode-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DecodeString/script.py)
+* [Number of Islands](https://leetcode.com/problems/number-of-islands/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofIslands/script.py)
