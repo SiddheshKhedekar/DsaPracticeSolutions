@@ -412,3 +412,4 @@
 * [Number of Islands](https://leetcode.com/problems/number-of-islands/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofIslands/script.py)
 * [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumDifficultyofaJobSchedule/script.py)
 * [3Sum Closest](https://leetcode.com/problems/3sum-closest/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/3SumClosest/script.py)
+* [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignCircularQueue/script.py)
