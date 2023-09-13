@@ -410,3 +410,4 @@
 * [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestRepeatingCharacterReplacement/script.py)
 * [Decode String](https://leetcode.com/problems/decode-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DecodeString/script.py)
 * [Number of Islands](https://leetcode.com/problems/number-of-islands/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofIslands/script.py)
+* [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumDifficultyofaJobSchedule/script.py)
