@@ -414,3 +414,4 @@
 * [3Sum Closest](https://leetcode.com/problems/3sum-closest/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/3SumClosest/script.py)
 * [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignCircularQueue/script.py)
 * [Design Linked List](https://leetcode.com/problems/design-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignLinkedList/script.py)
+* [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SatisfiabilityofEqualityEquations/script.py)
