@@ -417,3 +417,4 @@
 * [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SatisfiabilityofEqualityEquations/script.py)
 * [Add Binary](https://leetcode.com/problems/add-binary/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddBinary/script.py)
 * [Lemonade Change](https://leetcode.com/problems/lemonade-change/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LemonadeChange/script.py)
+* [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumLengthofRepeatedSubarray/script.py)
