@@ -416,3 +416,4 @@
 * [Design Linked List](https://leetcode.com/problems/design-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignLinkedList/script.py)
 * [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SatisfiabilityofEqualityEquations/script.py)
 * [Add Binary](https://leetcode.com/problems/add-binary/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddBinary/script.py)
+* [Lemonade Change](https://leetcode.com/problems/lemonade-change/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LemonadeChange/script.py)
