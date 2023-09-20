@@ -418,3 +418,4 @@
 * [Add Binary](https://leetcode.com/problems/add-binary/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddBinary/script.py)
 * [Lemonade Change](https://leetcode.com/problems/lemonade-change/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LemonadeChange/script.py)
 * [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumLengthofRepeatedSubarray/script.py)
+* [Edit Distance](https://leetcode.com/problems/edit-distance/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/EditDistance/script.py)
