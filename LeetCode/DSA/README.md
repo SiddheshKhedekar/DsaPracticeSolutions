@@ -425,3 +425,4 @@
 * [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestStringChain/script.py)
 * [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaxConsecutiveOnesIII/script.py)
 * [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofRecentCalls/script.py)
+* [Champagne Tower](https://leetcode.com/problems/champagne-tower/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ChampagneTower/script.py)
