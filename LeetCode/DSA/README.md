@@ -422,3 +422,4 @@
 * [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BinaryTreeZigzagLevelOrderTraversal/script.py)
 * [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MergekSortedLists/script.py)
 * [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumFuelCosttoReporttotheCapital/script.py)
+* [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestStringChain/script.py)
