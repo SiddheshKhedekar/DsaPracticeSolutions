@@ -428,3 +428,4 @@
 * [Champagne Tower](https://leetcode.com/problems/champagne-tower/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ChampagneTower/script.py)
 * [Find the Difference](https://leetcode.com/problems/find-the-difference/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindtheDifference/script.py)
 * [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaxNumberofK-SumPairs/script.py)
+* [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RemoveDuplicateLetters/script.py)
