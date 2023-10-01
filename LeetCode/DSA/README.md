@@ -432,3 +432,4 @@
 * [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PathWithMinimumEffort/script.py)
 * [132 Pattern](https://leetcode.com/problems/132-pattern/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/132Pattern/script.py)
 * [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CombinationSumIII/script.py)
+* [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/GuessNumberHigherorLower/script.py)
