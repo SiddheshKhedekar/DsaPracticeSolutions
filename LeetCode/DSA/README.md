@@ -431,3 +431,4 @@
 * [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RemoveDuplicateLetters/script.py)
 * [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PathWithMinimumEffort/script.py)
 * [132 Pattern](https://leetcode.com/problems/132-pattern/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/132Pattern/script.py)
+* [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CombinationSumIII/script.py)
