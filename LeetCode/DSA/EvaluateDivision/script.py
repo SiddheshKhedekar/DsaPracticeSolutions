@@ -21,4 +21,5 @@ class Solution:
             for x in eq[z]:
                 for y in eq[z]:
                     eq[x][y] = eq[x][z] * eq[z][y]
+                    eq[y][x] = 1 / eq[x][y]
         return [eq[nm].get(dn, -1.0) for nm, dn in queries]
