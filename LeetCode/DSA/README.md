@@ -434,3 +434,4 @@
 * [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CombinationSumIII/script.py)
 * [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/GuessNumberHigherorLower/script.py)
 * [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinCosttoConnectAllPoints/script.py)
+* [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RemoveColoredPiecesifBothNeighborsaretheSameColor/script.py)
