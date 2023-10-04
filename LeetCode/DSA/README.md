@@ -437,3 +437,4 @@
 * [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RemoveColoredPiecesifBothNeighborsaretheSameColor/script.py)
 * [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReconstructItinerary/script.py)
 * [Frog Jump](https://leetcode.com/problems/frog-jump/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FrogJump/script.py)
+* [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ImplementStackusingQueues/script.py)
