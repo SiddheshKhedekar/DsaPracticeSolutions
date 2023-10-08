@@ -441,3 +441,4 @@
 * [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestCommonSubsequence/script.py)
 * [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumLevelSumofaBinaryTree/script.py)
 * [Subsets II](https://leetcode.com/problems/subsets-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SubsetsII/script.py)
+* [Subsets](https://leetcode.com/problems/subsets/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Subsets/script.py)
