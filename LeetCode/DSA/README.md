@@ -444,3 +444,4 @@
 * [Subsets](https://leetcode.com/problems/subsets/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Subsets/script.py)
 * [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumAbsoluteDifferenceinBST/script.py)
 * [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/EqualRowandColumnPairs/script.py)
+* [Summary Ranges](https://leetcode.com/problems/summary-ranges/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SummaryRanges/script.py)
