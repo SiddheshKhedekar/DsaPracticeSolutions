@@ -446,3 +446,4 @@
 * [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/EqualRowandColumnPairs/script.py)
 * [Summary Ranges](https://leetcode.com/problems/summary-ranges/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SummaryRanges/script.py)
 * [Word Break](https://leetcode.com/problems/word-break/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WordBreak/script.py)
+* [Permutations II](https://leetcode.com/problems/permutations-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PermutationsII/script.py)
