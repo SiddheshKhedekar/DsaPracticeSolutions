@@ -450,3 +450,4 @@
 * [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ArithmeticSlices/script.py)
 * [Snapshot Array](https://leetcode.com/problems/snapshot-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SnapshotArray/script.py)
 * [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumValueataGivenIndexinaBoundedArray/script.py)
+* [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumScoreofaGoodSubarray/script.py)
