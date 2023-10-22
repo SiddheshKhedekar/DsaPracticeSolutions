@@ -452,3 +452,4 @@
 * [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumValueataGivenIndexinaBoundedArray/script.py)
 * [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumScoreofaGoodSubarray/script.py)
 * [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ConstrainedSubsequenceSum/script.py)
+* [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FruitIntoBaskets/script.py)
