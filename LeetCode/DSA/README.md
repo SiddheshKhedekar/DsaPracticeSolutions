@@ -454,3 +454,4 @@
 * [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ConstrainedSubsequenceSum/script.py)
 * [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FruitIntoBaskets/script.py)
 * [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DeleteNodeinaBST/script.py)
+* [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/K-thSymbolinGrammar/script.py)
