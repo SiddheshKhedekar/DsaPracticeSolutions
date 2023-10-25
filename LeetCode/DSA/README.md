@@ -456,3 +456,4 @@
 * [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DeleteNodeinaBST/script.py)
 * [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/K-thSymbolinGrammar/script.py)
 * [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindLargestValueinEachTreeRow/script.py)
+* [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindDuplicateFileinSystem/script.py)
