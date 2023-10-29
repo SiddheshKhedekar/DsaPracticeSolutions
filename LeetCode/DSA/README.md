@@ -459,3 +459,4 @@
 * [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindDuplicateFileinSystem/script.py)
 * [Flood Fill](https://leetcode.com/problems/flood-fill/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FloodFill/script.py)
 * [Poor Pigs](https://leetcode.com/problems/poor-pigs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PoorPigs/script.py)
+* [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountVowelsPermutation/script.py)
