@@ -461,3 +461,4 @@
 * [Poor Pigs](https://leetcode.com/problems/poor-pigs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PoorPigs/script.py)
 * [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountVowelsPermutation/script.py)
 * [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BinaryTreesWithFactors/script.py)
+* [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FlattenBinaryTreetoLinkedList/script.py)
