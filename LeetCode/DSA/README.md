@@ -458,3 +458,4 @@
 * [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindLargestValueinEachTreeRow/script.py)
 * [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindDuplicateFileinSystem/script.py)
 * [Flood Fill](https://leetcode.com/problems/flood-fill/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FloodFill/script.py)
+* [Poor Pigs](https://leetcode.com/problems/poor-pigs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PoorPigs/script.py)
