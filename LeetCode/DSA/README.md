@@ -467,3 +467,4 @@
 * [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TimeBasedKey-ValueStore/script.py)
 * [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AddOneRowtoTree/script.py)
 * [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestValidParentheses/script.py)
+* [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BuildanArrayWithStackOperations/script.py)
