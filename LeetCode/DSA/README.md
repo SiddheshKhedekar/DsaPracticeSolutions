@@ -480,3 +480,4 @@
 * [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindSmallestLetterGreaterThanTarget/script.py)
 * [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/UTF-8Validation/script.py)
 * [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindKClosestElements/script.py)
+* [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Pseudo-PalindromicPathsinaBinaryTree/script.py)
