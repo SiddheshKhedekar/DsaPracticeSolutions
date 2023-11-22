@@ -486,3 +486,4 @@
 * [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindUniqueBinaryString/script.py)
 * [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReductionOperationstoMaketheArrayElementsEqual/script.py)
 * [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimizeMaximumPairSuminArray/script.py)
+* [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SortVowelsinaString/script.py)
