@@ -488,3 +488,4 @@
 * [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimizeMaximumPairSuminArray/script.py)
 * [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SortVowelsinaString/script.py)
 * [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumElementAfterDecreasingandRearranging/script.py)
+* [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountNicePairsinanArray/script.py)
