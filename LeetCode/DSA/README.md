@@ -491,3 +491,4 @@
 * [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountNicePairsinanArray/script.py)
 * [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumAmountofTimetoCollectGarbage/script.py)
 * [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LargestSubmatrixWithRearrangements/script.py)
+* [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LongestConsecutiveSequence/script.py)
