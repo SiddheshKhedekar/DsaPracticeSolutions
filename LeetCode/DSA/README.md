@@ -495,3 +495,4 @@
 * [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumNumberofCoinsYouCanGet/script.py)
 * [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DiagonalTraverseII/script.py)
 * [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofWaystoDivideaLongCorridor/script.py)
+* [Knight Dialer](https://leetcode.com/problems/knight-dialer/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KnightDialer/script.py)
