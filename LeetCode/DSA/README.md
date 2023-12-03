@@ -498,3 +498,4 @@
 * [Knight Dialer](https://leetcode.com/problems/knight-dialer/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/KnightDialer/script.py)
 * [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SumofAbsoluteDifferencesinaSortedArray/script.py)
 * [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindFirstandLastPositionofElementinSortedArray/script.py)
+* [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MergeTwoSortedLists/script.py)
