@@ -501,3 +501,4 @@
 * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MergeTwoSortedLists/script.py)
 * [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumTimeVisitingAllPoints/script.py)
 * [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindWordsThatCanBeFormedbyCharacters/script.py)
+* [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumOneBitOperationstoMakeIntegersZero/script.py)
