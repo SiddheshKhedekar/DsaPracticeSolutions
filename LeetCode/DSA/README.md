@@ -505,3 +505,4 @@
 * [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CalculateMoneyinLeetcodeBank/script.py)
 * [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountofMatchesinTournament/script.py)
 * [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/Largest3-Same-DigitNumberinString/script.py)
+* [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SearchinRotatedSortedArray/script.py)
