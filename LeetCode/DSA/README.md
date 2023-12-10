@@ -508,3 +508,4 @@
 * [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SearchinRotatedSortedArray/script.py)
 * [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ConstructStringfromBinaryTree/script.py)
 * [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BinaryTreeInorderTraversal/script.py)
+* [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BinaryTreePreorderTraversal/script.py)
