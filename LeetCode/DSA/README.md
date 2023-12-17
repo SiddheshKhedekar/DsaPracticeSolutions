@@ -514,3 +514,4 @@
 * [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/TransposeMatrix/script.py)
 * [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ElementAppearingMoreThan25%InSortedArray/script.py)
 * [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumProductofTwoElementsinanArray/script.py)
+* [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LargestOddNumberinString/script.py)
