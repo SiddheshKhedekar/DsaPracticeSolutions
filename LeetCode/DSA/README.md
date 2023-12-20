@@ -520,3 +520,4 @@
 * [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignaFoodRatingSystem/script.py)
 * [Image Smoother](https://leetcode.com/problems/image-smoother/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ImageSmoother/script.py)
 * [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BuyTwoChocolates/script.py)
+* [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumProductDifferenceBetweenTwoPairs/script.py)
