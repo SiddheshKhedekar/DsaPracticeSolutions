@@ -518,3 +518,4 @@
 * [Destination City](https://leetcode.com/problems/destination-city/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DestinationCity/script.py)
 * [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DifferenceBetweenOnesandZerosinRowandColumn/script.py)
 * [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DesignaFoodRatingSystem/script.py)
+* [Image Smoother](https://leetcode.com/problems/image-smoother/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ImageSmoother/script.py)
