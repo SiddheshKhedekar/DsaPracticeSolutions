@@ -523,3 +523,4 @@
 * [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumProductDifferenceBetweenTwoPairs/script.py)
 * [LRU Cache](https://leetcode.com/problems/lru-cache/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LRUCache/script.py)
 * [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumChangesToMakeAlternatingBinaryString/script.py)
+* [Path Crossing](https://leetcode.com/problems/path-crossing/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PathCrossing/script.py)
