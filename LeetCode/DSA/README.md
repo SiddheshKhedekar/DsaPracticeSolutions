@@ -526,3 +526,4 @@
 * [Path Crossing](https://leetcode.com/problems/path-crossing/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PathCrossing/script.py)
 * [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumScoreAfterSplittingaString/script.py)
 * [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WidestVerticalAreaBetweenTwoPointsContainingNoPoints/script.py)
+* [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ParallelCoursesIII/script.py)
