@@ -528,3 +528,4 @@
 * [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/WidestVerticalAreaBetweenTwoPointsContainingNoPoints/script.py)
 * [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ParallelCoursesIII/script.py)
 * [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ValidateBinaryTreeNodes/script.py)
+* [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LargestRectangleinHistogram/script.py)
