@@ -535,3 +535,4 @@
 * [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RedistributeCharacterstoMakeAllStringsEqual/script.py)
 * [String Compression II](https://leetcode.com/problems/string-compression-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/StringCompressionII/script.py)
 * [Move Zeroes](https://leetcode.com/problems/move-zeroes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MoveZeroes/script.py)
+* [Assign Cookies](https://leetcode.com/problems/assign-cookies/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AssignCookies/script.py)
