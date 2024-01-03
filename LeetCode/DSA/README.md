@@ -536,3 +536,4 @@
 * [String Compression II](https://leetcode.com/problems/string-compression-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/StringCompressionII/script.py)
 * [Move Zeroes](https://leetcode.com/problems/move-zeroes/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MoveZeroes/script.py)
 * [Assign Cookies](https://leetcode.com/problems/assign-cookies/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AssignCookies/script.py)
+* [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ConvertanArrayIntoa2DArrayWithConditions/script.py)
