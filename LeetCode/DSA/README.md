@@ -540,3 +540,4 @@
 * [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofLaserBeamsinaBank/script.py)
 * [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FirstMissingPositive/script.py)
 * [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumNumberofOperationstoMakeArrayEmpty/script.py)
+* [Next Permutation](https://leetcode.com/problems/next-permutation/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NextPermutation/script.py)
