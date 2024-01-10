@@ -542,3 +542,4 @@
 * [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumNumberofOperationstoMakeArrayEmpty/script.py)
 * [Next Permutation](https://leetcode.com/problems/next-permutation/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NextPermutation/script.py)
 * [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumSubarray/script.py)
+* [Amount of Time for Binary Tree to Be Infectedy](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AmountofTimeforBinaryTreetoBeInfected/script.py)
