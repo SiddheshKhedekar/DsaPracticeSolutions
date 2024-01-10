@@ -545,3 +545,4 @@
 * [Amount of Time for Binary Tree to Be Infectedy](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/AmountofTimeforBinaryTreetoBeInfected/script.py)
 * [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BagofTokens/script.py)
 * [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ArithmeticSlicesII-Subsequence/script.py)
+* [Sort Colors](https://leetcode.com/problems/sort-colors/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SortColors/script.py)
