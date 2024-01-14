@@ -547,3 +547,4 @@
 * [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ArithmeticSlicesII-Subsequence/script.py)
 * [Sort Colors](https://leetcode.com/problems/sort-colors/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SortColors/script.py)
 * [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CreateaDataFramefromList/script.py)
+* [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/GettheSizeofaDataFrame/script.py)
