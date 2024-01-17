@@ -551,3 +551,4 @@
 * [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumNumberofStepstoMakeTwoStringsAnagram/script.py)
 * [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumDifferenceBetweenNodeandAncestor/script.py)
 * [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofGoodPairs/script.py)
+* [Create a New Column](https://leetcode.com/problems/create-a-new-column/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CreateaNewColumn/script.py)
