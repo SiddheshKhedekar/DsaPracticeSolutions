@@ -554,3 +554,4 @@
 * [Create a New Column](https://leetcode.com/problems/create-a-new-column/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CreateaNewColumn/script.py)
 * [Select Data](https://leetcode.com/problems/select-data/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SelectData/script.py)
 * [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DisplaytheFirstThreeRows/script.py)
+* [Rename Columns](https://leetcode.com/problems/rename-columns/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RenameColumns/script.py)
