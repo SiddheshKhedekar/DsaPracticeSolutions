@@ -561,3 +561,4 @@
 * [Change Data Type](https://leetcode.com/problems/change-data-type/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ChangeDataType/script.py)
 * [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReshapeDataConcatenate/script.py)
 * [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FillMissingData/script.py)
+* [Search Insert Position](https://leetcode.com/problems/search-insert-position/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SearchInsertPosition/script.py)
