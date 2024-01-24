@@ -558,3 +558,4 @@
 * [Modify Columns](https://leetcode.com/problems/modify-columns/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ModifyColumns/script.py)
 * [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DropMissingData/script.py)
 * [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/DropDuplicateRows/script.py)
+* [Change Data Type](https://leetcode.com/problems/change-data-type/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ChangeDataType/script.py)
