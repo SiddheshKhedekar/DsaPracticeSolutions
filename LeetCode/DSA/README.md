@@ -562,3 +562,4 @@
 * [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReshapeDataConcatenate/script.py)
 * [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FillMissingData/script.py)
 * [Search Insert Position](https://leetcode.com/problems/search-insert-position/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SearchInsertPosition/script.py)
+* [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MergeSortedArray/script.py)
