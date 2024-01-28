@@ -564,3 +564,4 @@
 * [Search Insert Position](https://leetcode.com/problems/search-insert-position/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SearchInsertPosition/script.py)
 * [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MergeSortedArray/script.py)
 * [Method Chaining](https://leetcode.com/problems/method-chaining/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MethodChaining/script.py)
+* [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReshapeDataMelt/script.py)
