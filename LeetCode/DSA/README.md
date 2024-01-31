@@ -568,3 +568,4 @@
 * [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReshapeDataPivot/script.py)
 * [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RemoveDuplicatesfromSortedArrayII/script.py)
 * [Remove Element](https://leetcode.com/problems/remove-element/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/RemoveElement/script.py)
+* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ValidParentheses/script.py)
