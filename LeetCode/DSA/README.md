@@ -575,3 +575,4 @@
 * [H-Index](https://leetcode.com/problems/h-index/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/H-Index/script.py)
 * [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FirstUniqueCharacterinaString/script.py)
 * [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/PalindromicSubstrings/script.py)
+* [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LargestDivisibleSubset/script.py)
