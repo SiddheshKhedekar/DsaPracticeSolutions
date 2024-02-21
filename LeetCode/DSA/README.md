@@ -581,3 +581,4 @@
 * [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindPolygonWiththeLargestPerimeter/script.py)
 * [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LeastNumberofUniqueIntegersafterKRemovals/script.py)
 * [Missing Number](https://leetcode.com/problems/missing-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MissingNumber/script.py)
+* [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FurthestBuildingYouCanReach/script.py)
