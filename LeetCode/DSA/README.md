@@ -582,3 +582,4 @@
 * [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LeastNumberofUniqueIntegersafterKRemovals/script.py)
 * [Missing Number](https://leetcode.com/problems/missing-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MissingNumber/script.py)
 * [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FurthestBuildingYouCanReach/script.py)
+* [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/NumberofSubmatricesThatSumtoTarget/script.py)
