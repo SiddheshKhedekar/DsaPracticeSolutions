@@ -589,3 +589,4 @@
 * [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/EvenOddTree/script.py)
 * [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SubstringwithConcatenationofAllWords/script.py)
 * [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/LinkedListCycle/script.py)
+* [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumLengthofStringAfterDeletingSimilarEnds/script.py)
