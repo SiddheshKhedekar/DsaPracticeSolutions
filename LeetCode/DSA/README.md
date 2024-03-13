@@ -592,3 +592,4 @@
 * [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumLengthofStringAfterDeletingSimilarEnds/script.py)
 * [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/IntersectionofTwoArrays/script.py)
 * [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumCommonValue/script.py)
+* [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SquaresofaSortedArray/script.py)
