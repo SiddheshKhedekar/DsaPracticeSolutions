@@ -593,3 +593,4 @@
 * [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/IntersectionofTwoArrays/script.py)
 * [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MinimumCommonValue/script.py)
 * [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SquaresofaSortedArray/script.py)
+* [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountElementsWithMaximumFrequency/script.py)
