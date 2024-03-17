@@ -595,3 +595,4 @@
 * [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/SquaresofaSortedArray/script.py)
 * [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CountElementsWithMaximumFrequency/script.py)
 * [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/MaximumOddBinaryNumber/script.py)
+* [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindthePivotInteger/script.py)
