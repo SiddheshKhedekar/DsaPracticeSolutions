@@ -600,3 +600,4 @@
 * [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/CustomSortString/script.py)
 * [Valid Anagram](https://leetcode.com/problems/valid-anagram/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ValidAnagram/script.py)
 * [Contiguous Array](https://leetcode.com/problems/contiguous-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ContiguousArray/script.py)
+* [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindAllDuplicatesinanArray/script.py)
