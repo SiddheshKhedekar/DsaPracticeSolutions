@@ -602,3 +602,4 @@
 * [Contiguous Array](https://leetcode.com/problems/contiguous-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ContiguousArray/script.py)
 * [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/FindAllDuplicatesinanArray/script.py)
 * [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/BinarySubarraysWithSum/script.py)
+* [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) -> [Code](https://github.com/SiddheshKhedekar/DsaPracticeSolutions/blob/main/LeetCode/DSA/ReverseLinkedListII/script.py)
